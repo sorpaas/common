@@ -1,8 +1,14 @@
+# 2.6.0-beta.x
+
+- Add `signatureVerify (message: Uint8Array | string, signature: Uint8Array | string, addressOrPublicKey: Uint8Array | string): VerifyResult` to verify any signature, regardless of type. Returns validity & detected crypto type.
+- Add `addressCheckChecksum (decoded: Uint8Array)` as an helper to extract and verify the ss58 checksum
+
 # 2.5.1 Feb 22, 2020
 
+- **Breaking change** (TypeScript only) The `*.d.ts` files now contain TypeScript 3.8 features, `#private`, which is not usable in older versions
 - Add `isBigInt(value)` to allow `BigInt` checks. Also add support in `bnToBn` as well as number conversion utils
 - Add `isChildClass(Parent, Child?)` to check if a class extends the parent, asserting Child is Parent
-- (internal) Use `#<varname>` insead of `private _<varname>` for private class variables
+- (internal) Use `#<field>` instead of `private _<field>` for private class variables
 
 # 2.4.1 Feb 18, 2020
 

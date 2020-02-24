@@ -7,6 +7,7 @@
 ### External modules
 
 * ["address/check"](modules/_address_check_.md)
+* ["address/checkChecksum"](modules/_address_checkchecksum_.md)
 * ["address/decode"](modules/_address_decode_.md)
 * ["address/defaults"](modules/_address_defaults_.md)
 * ["address/encode"](modules/_address_encode_.md)
@@ -55,6 +56,7 @@
 * ["schnorrkel/verify"](modules/_schnorrkel_verify_.md)
 * ["secp256k1/recover"](modules/_secp256k1_recover_.md)
 * ["sha512/asU8a"](modules/_sha512_asu8a_.md)
+* ["signature/verify"](modules/_signature_verify_.md)
 * ["types"](modules/_types_.md)
 * ["xxhash/asHex"](modules/_xxhash_ashex_.md)
 * ["xxhash/asU8a"](modules/_xxhash_asu8a_.md)
