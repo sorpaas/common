@@ -14,14 +14,14 @@
 
 ▸ **bnToBn**<**ExtToBn**>(`value?`: ExtToBn | BN | BigInt | string | number | null): *BN*
 
-*Defined in [bn/toBn.ts:30](https://github.com/polkadot-js/common/blob/2d181df3/packages/util/src/bn/toBn.ts#L30)*
+*Defined in [bn/toBn.ts:30](https://github.com/polkadot-js/common/blob/87228149/packages/util/src/bn/toBn.ts#L30)*
 
 **`name`** bnToBn
 
-**`summary`** Creates a BN value from a BN.js bignumber or number input.
+**`summary`** Creates a BN value from a BN, BigInt, string (base 10 or hex) or number input.
 
 **`description`** 
-`null` inputs returns a `0x0` result, BN values returns the value, numnbers returns a BN representation.
+`null` inputs returns a `0x0` result, BN values returns the value, numbers returns a BN representation.
 
 **`example`** 
 <BR>
