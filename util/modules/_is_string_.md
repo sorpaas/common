@@ -14,7 +14,7 @@
 
 ▸ **isString**(`value`: any): *value is string | String*
 
-*Defined in [is/string.ts:20](https://github.com/polkadot-js/common/blob/af56c102/packages/util/src/is/string.ts#L20)*
+*Defined in [is/string.ts:20](https://github.com/polkadot-js/common/blob/68a8bcb7/packages/util/src/is/string.ts#L20)*
 
 **`name`** isString
 

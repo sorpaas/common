@@ -14,7 +14,7 @@
 
 ▸ **keyFromPath**(`pair`: [Keypair](../interfaces/_types_.keypair.md), `path`: [DeriveJunction](../classes/_key_derivejunction_.derivejunction.md)[], `type`: [KeypairType](_types_.md#keypairtype)): *[Keypair](../interfaces/_types_.keypair.md)*
 
-*Defined in [key/fromPath.ts:11](https://github.com/polkadot-js/common/blob/af56c102/packages/util-crypto/src/key/fromPath.ts#L11)*
+*Defined in [key/fromPath.ts:11](https://github.com/polkadot-js/common/blob/68a8bcb7/packages/util-crypto/src/key/fromPath.ts#L11)*
 
 **Parameters:**
 
