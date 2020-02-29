@@ -14,7 +14,7 @@
 
 ▸ **arrayFilter**(`array`: any[], `allowNulls`: boolean): *any[]*
 
-*Defined in [array/filter.ts:24](https://github.com/polkadot-js/common/blob/336df0d7/packages/util/src/array/filter.ts#L24)*
+*Defined in [array/filter.ts:24](https://github.com/polkadot-js/common/blob/af56c102/packages/util/src/array/filter.ts#L24)*
 
 **`name`** arrayFilter
 

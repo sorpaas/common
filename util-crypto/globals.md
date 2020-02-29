@@ -17,6 +17,7 @@
 * ["address/types"](modules/_address_types_.md)
 * ["blake2/asHex"](modules/_blake2_ashex_.md)
 * ["blake2/asU8a"](modules/_blake2_asu8a_.md)
+* ["init"](modules/_init_.md)
 * ["keccak/asHex"](modules/_keccak_ashex_.md)
 * ["keccak/asU8a"](modules/_keccak_asu8a_.md)
 * ["key/DeriveJunction"](modules/_key_derivejunction_.md)
