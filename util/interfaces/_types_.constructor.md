@@ -22,7 +22,7 @@
 
 \+ **new Constructor**(...`value`: any[]): *T*
 
-*Defined in [types.ts:8](https://github.com/polkadot-js/common/blob/68a8bcb7/packages/util/src/types.ts#L8)*
+*Defined in [types.ts:8](https://github.com/polkadot-js/common/blob/afce99ed/packages/util/src/types.ts#L8)*
 
 **Parameters:**
 

@@ -14,7 +14,7 @@
 
 ▸ **schnorrkelVerify**(`message`: Uint8Array | string, `signature`: Uint8Array | string, `publicKey`: Uint8Array | string): *boolean*
 
-*Defined in [schnorrkel/verify.ts:14](https://github.com/polkadot-js/common/blob/68a8bcb7/packages/util-crypto/src/schnorrkel/verify.ts#L14)*
+*Defined in [schnorrkel/verify.ts:14](https://github.com/polkadot-js/common/blob/afce99ed/packages/util-crypto/src/schnorrkel/verify.ts#L14)*
 
 **`name`** schnorrkelVerify
 

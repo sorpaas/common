@@ -18,7 +18,7 @@
 
 • **toBn**: *function*
 
-*Defined in [types.ts:14](https://github.com/polkadot-js/common/blob/68a8bcb7/packages/util/src/types.ts#L14)*
+*Defined in [types.ts:14](https://github.com/polkadot-js/common/blob/afce99ed/packages/util/src/types.ts#L14)*
 
 #### Type declaration:
 

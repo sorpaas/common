@@ -33,7 +33,7 @@
 
 • **#chainCode**: *Uint8Array* = new Uint8Array(32)
 
-*Defined in [key/DeriveJunction.ts:19](https://github.com/polkadot-js/common/blob/68a8bcb7/packages/util-crypto/src/key/DeriveJunction.ts#L19)*
+*Defined in [key/DeriveJunction.ts:19](https://github.com/polkadot-js/common/blob/afce99ed/packages/util-crypto/src/key/DeriveJunction.ts#L19)*
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 • **#isHard**: *boolean* = false
 
-*Defined in [key/DeriveJunction.ts:21](https://github.com/polkadot-js/common/blob/68a8bcb7/packages/util-crypto/src/key/DeriveJunction.ts#L21)*
+*Defined in [key/DeriveJunction.ts:21](https://github.com/polkadot-js/common/blob/afce99ed/packages/util-crypto/src/key/DeriveJunction.ts#L21)*
 
 ## Accessors
 
@@ -49,7 +49,7 @@ ___
 
 • **get chainCode**(): *Uint8Array*
 
-*Defined in [key/DeriveJunction.ts:40](https://github.com/polkadot-js/common/blob/68a8bcb7/packages/util-crypto/src/key/DeriveJunction.ts#L40)*
+*Defined in [key/DeriveJunction.ts:40](https://github.com/polkadot-js/common/blob/afce99ed/packages/util-crypto/src/key/DeriveJunction.ts#L40)*
 
 **Returns:** *Uint8Array*
 
@@ -59,7 +59,7 @@ ___
 
 • **get isHard**(): *boolean*
 
-*Defined in [key/DeriveJunction.ts:44](https://github.com/polkadot-js/common/blob/68a8bcb7/packages/util-crypto/src/key/DeriveJunction.ts#L44)*
+*Defined in [key/DeriveJunction.ts:44](https://github.com/polkadot-js/common/blob/afce99ed/packages/util-crypto/src/key/DeriveJunction.ts#L44)*
 
 **Returns:** *boolean*
 
@@ -69,7 +69,7 @@ ___
 
 • **get isSoft**(): *boolean*
 
-*Defined in [key/DeriveJunction.ts:48](https://github.com/polkadot-js/common/blob/68a8bcb7/packages/util-crypto/src/key/DeriveJunction.ts#L48)*
+*Defined in [key/DeriveJunction.ts:48](https://github.com/polkadot-js/common/blob/afce99ed/packages/util-crypto/src/key/DeriveJunction.ts#L48)*
 
 **Returns:** *boolean*
 
@@ -79,7 +79,7 @@ ___
 
 ▸ **hard**(`value`: number | BN | string | Uint8Array): *[DeriveJunction](_key_derivejunction_.derivejunction.md)*
 
-*Defined in [key/DeriveJunction.ts:52](https://github.com/polkadot-js/common/blob/68a8bcb7/packages/util-crypto/src/key/DeriveJunction.ts#L52)*
+*Defined in [key/DeriveJunction.ts:52](https://github.com/polkadot-js/common/blob/afce99ed/packages/util-crypto/src/key/DeriveJunction.ts#L52)*
 
 **Parameters:**
 
@@ -95,7 +95,7 @@ ___
 
 ▸ **harden**(): *[DeriveJunction](_key_derivejunction_.derivejunction.md)*
 
-*Defined in [key/DeriveJunction.ts:56](https://github.com/polkadot-js/common/blob/68a8bcb7/packages/util-crypto/src/key/DeriveJunction.ts#L56)*
+*Defined in [key/DeriveJunction.ts:56](https://github.com/polkadot-js/common/blob/afce99ed/packages/util-crypto/src/key/DeriveJunction.ts#L56)*
 
 **Returns:** *[DeriveJunction](_key_derivejunction_.derivejunction.md)*
 
@@ -105,7 +105,7 @@ ___
 
 ▸ **soft**(`value`: number | BN | string | Uint8Array): *[DeriveJunction](_key_derivejunction_.derivejunction.md)*
 
-*Defined in [key/DeriveJunction.ts:62](https://github.com/polkadot-js/common/blob/68a8bcb7/packages/util-crypto/src/key/DeriveJunction.ts#L62)*
+*Defined in [key/DeriveJunction.ts:62](https://github.com/polkadot-js/common/blob/afce99ed/packages/util-crypto/src/key/DeriveJunction.ts#L62)*
 
 **Parameters:**
 
@@ -121,7 +121,7 @@ ___
 
 ▸ **soften**(): *[DeriveJunction](_key_derivejunction_.derivejunction.md)*
 
-*Defined in [key/DeriveJunction.ts:81](https://github.com/polkadot-js/common/blob/68a8bcb7/packages/util-crypto/src/key/DeriveJunction.ts#L81)*
+*Defined in [key/DeriveJunction.ts:81](https://github.com/polkadot-js/common/blob/afce99ed/packages/util-crypto/src/key/DeriveJunction.ts#L81)*
 
 **Returns:** *[DeriveJunction](_key_derivejunction_.derivejunction.md)*
 
@@ -131,7 +131,7 @@ ___
 
 ▸ **from**(`value`: string): *[DeriveJunction](_key_derivejunction_.derivejunction.md)*
 
-*Defined in [key/DeriveJunction.ts:23](https://github.com/polkadot-js/common/blob/68a8bcb7/packages/util-crypto/src/key/DeriveJunction.ts#L23)*
+*Defined in [key/DeriveJunction.ts:23](https://github.com/polkadot-js/common/blob/afce99ed/packages/util-crypto/src/key/DeriveJunction.ts#L23)*
 
 **Parameters:**
 
