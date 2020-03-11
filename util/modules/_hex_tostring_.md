@@ -14,7 +14,7 @@
 
 ▸ **hexToString**(`_value?`: string | null): *string*
 
-*Defined in [hex/toString.ts:22](https://github.com/polkadot-js/common/blob/4ed09602/packages/util/src/hex/toString.ts#L22)*
+*Defined in [hex/toString.ts:22](https://github.com/polkadot-js/common/blob/6d9da39d/packages/util/src/hex/toString.ts#L22)*
 
 **`name`** hexToU8a
 

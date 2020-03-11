@@ -25,7 +25,7 @@
 
 • **add**: *function*
 
-*Defined in [types.ts:56](https://github.com/polkadot-js/common/blob/4ed09602/packages/keyring/src/types.ts#L56)*
+*Defined in [types.ts:56](https://github.com/polkadot-js/common/blob/6d9da39d/packages/keyring/src/types.ts#L56)*
 
 #### Type declaration:
 
@@ -43,7 +43,7 @@ ___
 
 • **all**: *function*
 
-*Defined in [types.ts:57](https://github.com/polkadot-js/common/blob/4ed09602/packages/keyring/src/types.ts#L57)*
+*Defined in [types.ts:57](https://github.com/polkadot-js/common/blob/6d9da39d/packages/keyring/src/types.ts#L57)*
 
 #### Type declaration:
 
@@ -55,7 +55,7 @@ ___
 
 • **get**: *function*
 
-*Defined in [types.ts:58](https://github.com/polkadot-js/common/blob/4ed09602/packages/keyring/src/types.ts#L58)*
+*Defined in [types.ts:58](https://github.com/polkadot-js/common/blob/6d9da39d/packages/keyring/src/types.ts#L58)*
 
 #### Type declaration:
 
@@ -73,7 +73,7 @@ ___
 
 • **remove**: *function*
 
-*Defined in [types.ts:59](https://github.com/polkadot-js/common/blob/4ed09602/packages/keyring/src/types.ts#L59)*
+*Defined in [types.ts:59](https://github.com/polkadot-js/common/blob/6d9da39d/packages/keyring/src/types.ts#L59)*
 
 #### Type declaration:
 
