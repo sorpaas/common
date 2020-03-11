@@ -12,9 +12,9 @@
 
 ###  detectPackage
 
-▸ **detectPackage**(`__namedParameters`: object, `path?`: undefined | string): *void*
+▸ **detectPackage**(`__namedParameters`: object, `path?`: string | false): *void*
 
-*Defined in [detectPackage.ts:50](https://github.com/polkadot-js/common/blob/c8100dbe/packages/util/src/detectPackage.ts#L50)*
+*Defined in [detectPackage.ts:50](https://github.com/polkadot-js/common/blob/4ed09602/packages/util/src/detectPackage.ts#L50)*
 
 **`name`** detectPackage
 
@@ -29,6 +29,6 @@ Name | Type |
 `name` | string |
 `version` | string |
 
-▪`Optional`  **path**: *undefined | string*
+▪`Optional`  **path**: *string | false*
 
 **Returns:** *void*
