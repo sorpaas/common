@@ -14,7 +14,7 @@
 
 ▸ **isObject**(`value`: any): *value is ObjectIndexed*
 
-*Defined in [is/object.ts:26](https://github.com/polkadot-js/common/blob/8971c890/packages/util/src/is/object.ts#L26)*
+*Defined in [is/object.ts:26](https://github.com/polkadot-js/common/blob/983ca718/packages/util/src/is/object.ts#L26)*
 
 **`name`** isObject
 

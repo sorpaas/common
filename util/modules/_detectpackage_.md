@@ -14,7 +14,7 @@
 
 ▸ **detectPackage**(`__namedParameters`: object, `path?`: string | false): *void*
 
-*Defined in [detectPackage.ts:50](https://github.com/polkadot-js/common/blob/8971c890/packages/util/src/detectPackage.ts#L50)*
+*Defined in [detectPackage.ts:50](https://github.com/polkadot-js/common/blob/983ca718/packages/util/src/detectPackage.ts#L50)*
 
 **`name`** detectPackage
 
