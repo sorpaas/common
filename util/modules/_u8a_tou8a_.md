@@ -14,7 +14,7 @@
 
 ▸ **u8aToU8a**(`value?`: number[] | Buffer | Uint8Array | string | null): *Uint8Array*
 
-*Defined in [u8a/toU8a.ts:27](https://github.com/polkadot-js/common/blob/983ca718/packages/util/src/u8a/toU8a.ts#L27)*
+*Defined in [u8a/toU8a.ts:27](https://github.com/polkadot-js/common/blob/d08cf8b5/packages/util/src/u8a/toU8a.ts#L27)*
 
 **`name`** u8aToU8a
 
