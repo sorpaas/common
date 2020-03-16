@@ -14,7 +14,7 @@
 
 ▸ **isU8a**(`value?`: any): *value is Uint8Array*
 
-*Defined in [is/u8a.ts:22](https://github.com/polkadot-js/common/blob/2159270d/packages/util/src/is/u8a.ts#L22)*
+*Defined in [is/u8a.ts:22](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/is/u8a.ts#L22)*
 
 **`name`** isU8a
 

@@ -14,7 +14,7 @@
 
 ▸ **isBigInt**(`value`: BigInt | object | string | number | undefined | null): *value is BigInt*
 
-*Defined in [is/bigInt.ts:19](https://github.com/polkadot-js/common/blob/2159270d/packages/util/src/is/bigInt.ts#L19)*
+*Defined in [is/bigInt.ts:19](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/is/bigInt.ts#L19)*
 
 **`name`** isBigInt
 
