@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["is/object"](_is_object_.md)
 
-# External module: "is/object"
+# Module: "is/object"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **isObject**(`value`: any): *value is ObjectIndexed*
 
-*Defined in [is/object.ts:26](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/is/object.ts#L26)*
+*Defined in [is/object.ts:26](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/is/object.ts#L26)*
 
 **`name`** isObject
 

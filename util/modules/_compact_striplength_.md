@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["compact/stripLength"](_compact_striplength_.md)
 
-# External module: "compact/stripLength"
+# Module: "compact/stripLength"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **compactStripLength**(`input`: Uint8Array, `bitLength`: [BitLength](_compact_types_.md#bitlength)): *[number, Uint8Array]*
 
-*Defined in [compact/stripLength.ts:22](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/compact/stripLength.ts#L22)*
+*Defined in [compact/stripLength.ts:22](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/compact/stripLength.ts#L22)*
 
 **`name`** compactStripLength
 

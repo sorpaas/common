@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["xxhash/asHex"](_xxhash_ashex_.md)
 
-# External module: "xxhash/asHex"
+# Module: "xxhash/asHex"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **xxhashAsHex**(`data`: Buffer | Uint8Array | string, `bitLength`: number): *string*
 
-*Defined in [xxhash/asHex.ts:23](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util-crypto/src/xxhash/asHex.ts#L23)*
+*Defined in [xxhash/asHex.ts:23](https://github.com/polkadot-js/common/blob/27c474bd/packages/util-crypto/src/xxhash/asHex.ts#L23)*
 
 **`name`** xxhashAsHex
 

@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["is/error"](_is_error_.md)
 
-# External module: "is/error"
+# Module: "is/error"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **isError**(`value`: any): *value is Error*
 
-*Defined in [is/error.ts:22](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/is/error.ts#L22)*
+*Defined in [is/error.ts:22](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/is/error.ts#L22)*
 
 **`name`** isError
 

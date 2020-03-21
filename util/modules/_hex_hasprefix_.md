@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["hex/hasPrefix"](_hex_hasprefix_.md)
 
-# External module: "hex/hasPrefix"
+# Module: "hex/hasPrefix"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **hexHasPrefix**(`value?`: string | null): *boolean*
 
-*Defined in [hex/hasPrefix.ts:21](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/hex/hasPrefix.ts#L21)*
+*Defined in [hex/hasPrefix.ts:21](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/hex/hasPrefix.ts#L21)*
 
 **`name`** hexHasPrefix
 

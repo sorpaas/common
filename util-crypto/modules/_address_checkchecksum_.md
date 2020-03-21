@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["address/checkChecksum"](_address_checkchecksum_.md)
 
-# External module: "address/checkChecksum"
+# Module: "address/checkChecksum"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **checkChecksum**(`decoded`: Uint8Array): *[boolean, number]*
 
-*Defined in [address/checkChecksum.ts:7](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util-crypto/src/address/checkChecksum.ts#L7)*
+*Defined in [address/checkChecksum.ts:7](https://github.com/polkadot-js/common/blob/27c474bd/packages/util-crypto/src/address/checkChecksum.ts#L7)*
 
 **Parameters:**
 

@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["string/lowerFirst"](_string_lowerfirst_.md)
 
-# External module: "string/lowerFirst"
+# Module: "string/lowerFirst"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **stringLowerFirst**(`value?`: string | null): *string*
 
-*Defined in [string/lowerFirst.ts:19](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/string/lowerFirst.ts#L19)*
+*Defined in [string/lowerFirst.ts:19](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/string/lowerFirst.ts#L19)*
 
 **`name`** stringLowerFirst
 

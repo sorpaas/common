@@ -4,7 +4,7 @@
 
 ## Index
 
-### External modules
+### Modules
 
 * ["defaults"](modules/_defaults_.md)
 * ["keyring"](modules/_keyring_.md)

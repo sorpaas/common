@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["is/observable"](_is_observable_.md)
 
-# External module: "is/observable"
+# Module: "is/observable"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **isObservable**(`value`: any): *value is Observable*
 
-*Defined in [is/observable.ts:28](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/is/observable.ts#L28)*
+*Defined in [is/observable.ts:28](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/is/observable.ts#L28)*
 
 **`name`** isBObservable
 

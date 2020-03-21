@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["nacl/sign"](_nacl_sign_.md)
 
-# External module: "nacl/sign"
+# Module: "nacl/sign"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **naclSign**(`message`: Uint8Array | string, `__namedParameters`: object): *Uint8Array*
 
-*Defined in [nacl/sign.ts:25](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util-crypto/src/nacl/sign.ts#L25)*
+*Defined in [nacl/sign.ts:25](https://github.com/polkadot-js/common/blob/27c474bd/packages/util-crypto/src/nacl/sign.ts#L25)*
 
 **`name`** naclSign
 

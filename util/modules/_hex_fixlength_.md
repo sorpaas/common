@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["hex/fixLength"](_hex_fixlength_.md)
 
-# External module: "hex/fixLength"
+# Module: "hex/fixLength"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **hexFixLength**(`value`: string, `bitLength`: number, `withPadding`: boolean): *string*
 
-*Defined in [hex/fixLength.ts:24](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/hex/fixLength.ts#L24)*
+*Defined in [hex/fixLength.ts:24](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/hex/fixLength.ts#L24)*
 
 **`name`** hexFixLength
 

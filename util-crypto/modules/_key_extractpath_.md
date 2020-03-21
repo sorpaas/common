@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["key/extractPath"](_key_extractpath_.md)
 
-# External module: "key/extractPath"
+# Module: "key/extractPath"
 
 ## Index
 
@@ -18,7 +18,7 @@
 
 ▸ **keyExtractPath**(`derivePath`: string): *[ExtractResult](../interfaces/_key_extractpath_.extractresult.md)*
 
-*Defined in [key/extractPath.ts:18](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util-crypto/src/key/extractPath.ts#L18)*
+*Defined in [key/extractPath.ts:18](https://github.com/polkadot-js/common/blob/27c474bd/packages/util-crypto/src/key/extractPath.ts#L18)*
 
 **`description`** Extract derivation juntions from the supplied path
 

@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["schnorrkel/sign"](_schnorrkel_sign_.md)
 
-# External module: "schnorrkel/sign"
+# Module: "schnorrkel/sign"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **schnorrkelSign**(`message`: Uint8Array | string, `__namedParameters`: object): *Uint8Array*
 
-*Defined in [schnorrkel/sign.ts:16](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util-crypto/src/schnorrkel/sign.ts#L16)*
+*Defined in [schnorrkel/sign.ts:16](https://github.com/polkadot-js/common/blob/27c474bd/packages/util-crypto/src/schnorrkel/sign.ts#L16)*
 
 **`name`** schnorrkelSign
 

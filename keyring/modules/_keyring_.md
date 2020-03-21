@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["keyring"](_keyring_.md)
 
-# External module: "keyring"
+# Module: "keyring"
 
 ## Index
 

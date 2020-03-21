@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["is/u8a"](_is_u8a_.md)
 
-# External module: "is/u8a"
+# Module: "is/u8a"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **isU8a**(`value?`: any): *value is Uint8Array*
 
-*Defined in [is/u8a.ts:22](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/is/u8a.ts#L22)*
+*Defined in [is/u8a.ts:22](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/is/u8a.ts#L22)*
 
 **`name`** isU8a
 

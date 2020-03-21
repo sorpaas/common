@@ -4,7 +4,7 @@
 
 ## Index
 
-### External modules
+### Modules
 
 * ["address/check"](modules/_address_check_.md)
 * ["address/checkChecksum"](modules/_address_checkchecksum_.md)

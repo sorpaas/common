@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["testingPairs"](_testingpairs_.md)
 
-# External module: "testingPairs"
+# Module: "testingPairs"
 
 ## Index
 
@@ -18,7 +18,7 @@
 
 ▸ **testKeyringPairs**(`options?`: [KeyringOptions](../interfaces/_types_.keyringoptions.md), `isDerived`: boolean): *[TestKeyringMap](../interfaces/_testingpairs_.testkeyringmap.md)*
 
-*Defined in [testingPairs.ts:14](https://github.com/polkadot-js/common/blob/9eea21e0/packages/keyring/src/testingPairs.ts#L14)*
+*Defined in [testingPairs.ts:14](https://github.com/polkadot-js/common/blob/27c474bd/packages/keyring/src/testingPairs.ts#L14)*
 
 **Parameters:**
 

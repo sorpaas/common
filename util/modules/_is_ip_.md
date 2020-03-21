@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["is/ip"](_is_ip_.md)
 
-# External module: "is/ip"
+# Module: "is/ip"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **isIp**(`value`: string, `type?`: IpTypes): *boolean*
 
-*Defined in [is/ip.ts:26](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/is/ip.ts#L26)*
+*Defined in [is/ip.ts:26](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/is/ip.ts#L26)*
 
 **`name`** isIp
 

@@ -4,7 +4,7 @@
 
 ## Index
 
-### External modules
+### Modules
 
 * ["array/filter"](modules/_array_filter_.md)
 * ["assert"](modules/_assert_.md)

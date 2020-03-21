@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["hex/toNumber"](_hex_tonumber_.md)
 
-# External module: "hex/toNumber"
+# Module: "hex/toNumber"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **hexToNumber**(`value?`: string | null): *number*
 
-*Defined in [hex/toNumber.ts:21](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/hex/toNumber.ts#L21)*
+*Defined in [hex/toNumber.ts:21](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/hex/toNumber.ts#L21)*
 
 **`name`** hexToNumber
 

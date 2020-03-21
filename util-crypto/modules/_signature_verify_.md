@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["signature/verify"](_signature_verify_.md)
 
-# External module: "signature/verify"
+# Module: "signature/verify"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **signatureVerify**(`message`: Uint8Array | string, `signature`: Uint8Array | string, `addressOrPublicKey`: Uint8Array | string): *[VerifyResult](../interfaces/_types_.verifyresult.md)*
 
-*Defined in [signature/verify.ts:56](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util-crypto/src/signature/verify.ts#L56)*
+*Defined in [signature/verify.ts:56](https://github.com/polkadot-js/common/blob/27c474bd/packages/util-crypto/src/signature/verify.ts#L56)*
 
 **Parameters:**
 

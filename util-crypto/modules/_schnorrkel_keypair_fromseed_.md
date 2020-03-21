@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["schnorrkel/keypair/fromSeed"](_schnorrkel_keypair_fromseed_.md)
 
-# External module: "schnorrkel/keypair/fromSeed"
+# Module: "schnorrkel/keypair/fromSeed"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **schnorrkelKeypairFromSeed**(`seed`: Uint8Array): *[Keypair](../interfaces/_types_.keypair.md)*
 
-*Defined in [schnorrkel/keypair/fromSeed.ts:17](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util-crypto/src/schnorrkel/keypair/fromSeed.ts#L17)*
+*Defined in [schnorrkel/keypair/fromSeed.ts:17](https://github.com/polkadot-js/common/blob/27c474bd/packages/util-crypto/src/schnorrkel/keypair/fromSeed.ts#L17)*
 
 **`name`** schnorrkelKeypairFromSeed
 

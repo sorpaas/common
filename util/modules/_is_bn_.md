@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["is/bn"](_is_bn_.md)
 
-# External module: "is/bn"
+# Module: "is/bn"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **isBn**(`value`: object | string | number | undefined | null): *value is BN*
 
-*Defined in [is/bn.ts:22](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/is/bn.ts#L22)*
+*Defined in [is/bn.ts:22](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/is/bn.ts#L22)*
 
 **`name`** isBn
 

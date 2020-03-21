@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["address/types"](_address_types_.md)
 
-# External module: "address/types"
+# Module: "address/types"
 
 ## Index
 
@@ -14,4 +14,4 @@
 
 Ƭ **Prefix**: *number*
 
-*Defined in [address/types.ts:7](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util-crypto/src/address/types.ts#L7)*
+*Defined in [address/types.ts:7](https://github.com/polkadot-js/common/blob/27c474bd/packages/util-crypto/src/address/types.ts#L7)*

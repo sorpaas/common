@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["hex/toString"](_hex_tostring_.md)
 
-# External module: "hex/toString"
+# Module: "hex/toString"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **hexToString**(`_value?`: string | null): *string*
 
-*Defined in [hex/toString.ts:22](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/hex/toString.ts#L22)*
+*Defined in [hex/toString.ts:22](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/hex/toString.ts#L22)*
 
 **`name`** hexToU8a
 

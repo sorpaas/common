@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["nacl/open"](_nacl_open_.md)
 
-# External module: "nacl/open"
+# Module: "nacl/open"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **naclOpen**(`sealed`: Uint8Array, `nonce`: Uint8Array, `senderBoxPublic`: Uint8Array, `receiverBoxSecret`: Uint8Array): *Uint8Array | null*
 
-*Defined in [nacl/open.ts:21](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util-crypto/src/nacl/open.ts#L21)*
+*Defined in [nacl/open.ts:21](https://github.com/polkadot-js/common/blob/27c474bd/packages/util-crypto/src/nacl/open.ts#L21)*
 
 **`name`** naclOpen
 

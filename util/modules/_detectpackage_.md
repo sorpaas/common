@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["detectPackage"](_detectpackage_.md)
 
-# External module: "detectPackage"
+# Module: "detectPackage"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **detectPackage**(`__namedParameters`: object, `path?`: string | false): *void*
 
-*Defined in [detectPackage.ts:50](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/detectPackage.ts#L50)*
+*Defined in [detectPackage.ts:50](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/detectPackage.ts#L50)*
 
 **`name`** detectPackage
 

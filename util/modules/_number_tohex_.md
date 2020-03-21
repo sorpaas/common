@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["number/toHex"](_number_tohex_.md)
 
-# External module: "number/toHex"
+# Module: "number/toHex"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **numberToHex**(`value?`: number | null, `bitLength`: number): *string*
 
-*Defined in [number/toHex.ts:24](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/number/toHex.ts#L24)*
+*Defined in [number/toHex.ts:24](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/number/toHex.ts#L24)*
 
 **`name`** numberToHex
 

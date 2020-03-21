@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["xxhash/xxhash64/asRaw"](_xxhash_xxhash64_asraw_.md)
 
-# External module: "xxhash/xxhash64/asRaw"
+# Module: "xxhash/xxhash64/asRaw"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **xxhash64AsRaw**(`data`: Buffer | Uint8Array | string, `seed`: number): *string*
 
-*Defined in [xxhash/xxhash64/asRaw.ts:21](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util-crypto/src/xxhash/xxhash64/asRaw.ts#L21)*
+*Defined in [xxhash/xxhash64/asRaw.ts:21](https://github.com/polkadot-js/common/blob/27c474bd/packages/util-crypto/src/xxhash/xxhash64/asRaw.ts#L21)*
 
 **`name`** xxhash64AsRaw
 

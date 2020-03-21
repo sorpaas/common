@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["compact/fromU8a"](_compact_fromu8a_.md)
 
-# External module: "compact/fromU8a"
+# Module: "compact/fromU8a"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **compactFromU8a**(`_input`: Uint8Array | string, `bitLength`: [BitLength](_compact_types_.md#bitlength)): *[number, BN]*
 
-*Defined in [compact/fromU8a.ts:27](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/compact/fromU8a.ts#L27)*
+*Defined in [compact/fromU8a.ts:27](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/compact/fromU8a.ts#L27)*
 
 **`name`** compactFromU8a
 

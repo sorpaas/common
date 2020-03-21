@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["is/bigInt"](_is_bigint_.md)
 
-# External module: "is/bigInt"
+# Module: "is/bigInt"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **isBigInt**(`value`: BigInt | object | string | number | undefined | null): *value is BigInt*
 
-*Defined in [is/bigInt.ts:19](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/is/bigInt.ts#L19)*
+*Defined in [is/bigInt.ts:19](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/is/bigInt.ts#L19)*
 
 **`name`** isBigInt
 

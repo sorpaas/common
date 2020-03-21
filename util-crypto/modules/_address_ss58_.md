@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["address/ss58"](_address_ss58_.md)
 
-# External module: "address/ss58"
+# Module: "address/ss58"
 
 ## Index
 
@@ -25,4 +25,4 @@
   68, 69
 ]
 
-*Defined in [address/ss58.ts:5](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util-crypto/src/address/ss58.ts#L5)*
+*Defined in [address/ss58.ts:5](https://github.com/polkadot-js/common/blob/27c474bd/packages/util-crypto/src/address/ss58.ts#L5)*

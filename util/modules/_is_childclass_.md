@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["is/childClass"](_is_childclass_.md)
 
-# External module: "is/childClass"
+# Module: "is/childClass"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **isChildClass**<**P**>(`Parent`: P, `Child?`: [Constructor](../interfaces/_types_.constructor.md) | null | unknown): *Child is P*
 
-*Defined in [is/childClass.ts:22](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/is/childClass.ts#L22)*
+*Defined in [is/childClass.ts:22](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/is/childClass.ts#L22)*
 
 **`name`** isChildClass
 

@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["nacl/encrypt"](_nacl_encrypt_.md)
 
-# External module: "nacl/encrypt"
+# Module: "nacl/encrypt"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **naclEncrypt**(`message`: Uint8Array, `secret`: Uint8Array, `nonce`: Uint8Array): *Encrypted*
 
-*Defined in [nacl/encrypt.ts:28](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util-crypto/src/nacl/encrypt.ts#L28)*
+*Defined in [nacl/encrypt.ts:28](https://github.com/polkadot-js/common/blob/27c474bd/packages/util-crypto/src/nacl/encrypt.ts#L28)*
 
 **`name`** naclEncrypt
 

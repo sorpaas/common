@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["pair/toJson"](_pair_tojson_.md)
 
-# External module: "pair/toJson"
+# Module: "pair/toJson"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **toJson**(`type`: KeypairType, `__namedParameters`: object, `encoded`: Uint8Array, `isEncrypted`: boolean): *[KeyringPair$Json](../interfaces/_types_.keyringpair_json.md)*
 
-*Defined in [pair/toJson.ts:15](https://github.com/polkadot-js/common/blob/9eea21e0/packages/keyring/src/pair/toJson.ts#L15)*
+*Defined in [pair/toJson.ts:15](https://github.com/polkadot-js/common/blob/27c474bd/packages/keyring/src/pair/toJson.ts#L15)*
 
 **Parameters:**
 

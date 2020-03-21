@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["compact/defaults"](_compact_defaults_.md)
 
-# External module: "compact/defaults"
+# Module: "compact/defaults"
 
 ## Index
 
@@ -14,4 +14,4 @@
 
 • **DEFAULT_BITLENGTH**: *[BitLength](_compact_types_.md#bitlength)* = 32
 
-*Defined in [compact/defaults.ts:7](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/compact/defaults.ts#L7)*
+*Defined in [compact/defaults.ts:7](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/compact/defaults.ts#L7)*

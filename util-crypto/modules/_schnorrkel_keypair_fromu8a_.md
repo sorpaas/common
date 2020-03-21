@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["schnorrkel/keypair/fromU8a"](_schnorrkel_keypair_fromu8a_.md)
 
-# External module: "schnorrkel/keypair/fromU8a"
+# Module: "schnorrkel/keypair/fromU8a"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **schnorrkelKeypairFromU8a**(`full`: Uint8Array): *[Keypair](../interfaces/_types_.keypair.md)*
 
-*Defined in [schnorrkel/keypair/fromU8a.ts:10](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util-crypto/src/schnorrkel/keypair/fromU8a.ts#L10)*
+*Defined in [schnorrkel/keypair/fromU8a.ts:10](https://github.com/polkadot-js/common/blob/27c474bd/packages/util-crypto/src/schnorrkel/keypair/fromU8a.ts#L10)*
 
 **Parameters:**
 

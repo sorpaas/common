@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["array/filter"](_array_filter_.md)
 
-# External module: "array/filter"
+# Module: "array/filter"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **arrayFilter**(`array`: any[], `allowNulls`: boolean): *any[]*
 
-*Defined in [array/filter.ts:24](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/array/filter.ts#L24)*
+*Defined in [array/filter.ts:24](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/array/filter.ts#L24)*
 
 **`name`** arrayFilter
 

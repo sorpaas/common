@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["string/toHex"](_string_tohex_.md)
 
-# External module: "string/toHex"
+# Module: "string/toHex"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **stringToHex**(`value?`: undefined | string): *string*
 
-*Defined in [string/toHex.ts:22](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/string/toHex.ts#L22)*
+*Defined in [string/toHex.ts:22](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/string/toHex.ts#L22)*
 
 **`name`** stringToHex
 

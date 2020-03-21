@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["key/extractSuri"](_key_extractsuri_.md)
 
-# External module: "key/extractSuri"
+# Module: "key/extractSuri"
 
 ## Index
 
@@ -18,7 +18,7 @@
 
 ▸ **keyExtract**(`suri`: string): *[ExtractResult](../interfaces/_key_extractsuri_.extractresult.md)*
 
-*Defined in [key/extractSuri.ts:21](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util-crypto/src/key/extractSuri.ts#L21)*
+*Defined in [key/extractSuri.ts:21](https://github.com/polkadot-js/common/blob/27c474bd/packages/util-crypto/src/key/extractSuri.ts#L21)*
 
 **`description`** Extracts the phrase, path and password from a SURI format for specifying secret keys `<secret>/<soft-key>//<hard-key>///<password>` (the `///password` may be omitted, and `/<soft-key>` and `//<hard-key>` maybe repeated and mixed).
 

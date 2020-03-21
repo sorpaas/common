@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["is/function"](_is_function_.md)
 
-# External module: "is/function"
+# Module: "is/function"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **isFunction**(`value`: any): *value is Function*
 
-*Defined in [is/function.ts:20](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/is/function.ts#L20)*
+*Defined in [is/function.ts:20](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/is/function.ts#L20)*
 
 **`name`** isFunction
 

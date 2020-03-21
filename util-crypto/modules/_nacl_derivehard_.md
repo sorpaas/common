@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["nacl/deriveHard"](_nacl_derivehard_.md)
 
-# External module: "nacl/deriveHard"
+# Module: "nacl/deriveHard"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **deriveHard**(`seed`: Uint8Array, `chainCode`: Uint8Array): *Uint8Array*
 
-*Defined in [nacl/deriveHard.ts:11](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util-crypto/src/nacl/deriveHard.ts#L11)*
+*Defined in [nacl/deriveHard.ts:11](https://github.com/polkadot-js/common/blob/27c474bd/packages/util-crypto/src/nacl/deriveHard.ts#L11)*
 
 **Parameters:**
 

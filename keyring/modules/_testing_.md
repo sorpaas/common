@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["testing"](_testing_.md)
 
-# External module: "testing"
+# Module: "testing"
 
 ## Index
 
@@ -59,7 +59,7 @@
   }
 ]
 
-*Defined in [testing.ts:24](https://github.com/polkadot-js/common/blob/9eea21e0/packages/keyring/src/testing.ts#L24)*
+*Defined in [testing.ts:24](https://github.com/polkadot-js/common/blob/27c474bd/packages/keyring/src/testing.ts#L24)*
 
 ## Functions
 
@@ -67,7 +67,7 @@
 
 ▸ **testKeyring**(`options`: [KeyringOptions](../interfaces/_types_.keyringoptions.md), `isDerived`: boolean): *[KeyringInstance](../interfaces/_types_.keyringinstance.md)*
 
-*Defined in [testing.ts:73](https://github.com/polkadot-js/common/blob/9eea21e0/packages/keyring/src/testing.ts#L73)*
+*Defined in [testing.ts:73](https://github.com/polkadot-js/common/blob/27c474bd/packages/keyring/src/testing.ts#L73)*
 
 **`name`** testKeyring
 

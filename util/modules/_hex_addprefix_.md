@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["hex/addPrefix"](_hex_addprefix_.md)
 
-# External module: "hex/addPrefix"
+# Module: "hex/addPrefix"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **hexAddPrefix**(`value?`: string | null): *string*
 
-*Defined in [hex/addPrefix.ts:21](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/hex/addPrefix.ts#L21)*
+*Defined in [hex/addPrefix.ts:21](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/hex/addPrefix.ts#L21)*
 
 **`name`** hexAddPrefix
 

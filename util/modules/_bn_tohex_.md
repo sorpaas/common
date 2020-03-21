@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["bn/toHex"](_bn_tohex_.md)
 
-# External module: "bn/toHex"
+# Module: "bn/toHex"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **bnToHex**(`value?`: BN | BigInt | number | null, `options`: number | Options): *string*
 
-*Defined in [bn/toHex.ts:33](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/bn/toHex.ts#L33)*
+*Defined in [bn/toHex.ts:33](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/bn/toHex.ts#L33)*
 
 **`name`** bnToHex
 

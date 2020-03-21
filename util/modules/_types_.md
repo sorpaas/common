@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["types"](_types_.md)
 
-# External module: "types"
+# Module: "types"
 
 ## Index
 
@@ -23,7 +23,7 @@
 
 Ƭ **BnList**: *object & BN[]*
 
-*Defined in [types.ts:41](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/types.ts#L41)*
+*Defined in [types.ts:41](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/types.ts#L41)*
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 Ƭ **Logger$Data**: *any[]*
 
-*Defined in [types.ts:26](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/types.ts#L26)*
+*Defined in [types.ts:26](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/types.ts#L26)*

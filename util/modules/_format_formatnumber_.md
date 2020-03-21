@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["format/formatNumber"](_format_formatnumber_.md)
 
-# External module: "format/formatNumber"
+# Module: "format/formatNumber"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **formatNumber**<**ExtToBn**>(`value?`: ExtToBn | BN | BigInt | number | null): *string*
 
-*Defined in [format/formatNumber.ts:12](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/format/formatNumber.ts#L12)*
+*Defined in [format/formatNumber.ts:12](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/format/formatNumber.ts#L12)*
 
 **Type parameters:**
 

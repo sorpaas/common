@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["u8a/toU8a"](_u8a_tou8a_.md)
 
-# External module: "u8a/toU8a"
+# Module: "u8a/toU8a"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **u8aToU8a**(`value?`: number[] | Buffer | Uint8Array | string | null): *Uint8Array*
 
-*Defined in [u8a/toU8a.ts:27](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/u8a/toU8a.ts#L27)*
+*Defined in [u8a/toU8a.ts:27](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/u8a/toU8a.ts#L27)*
 
 **`name`** u8aToU8a
 

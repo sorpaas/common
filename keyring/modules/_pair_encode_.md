@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["pair/encode"](_pair_encode_.md)
 
-# External module: "pair/encode"
+# Module: "pair/encode"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **encode**(`__namedParameters`: object, `passphrase?`: undefined | string): *Uint8Array*
 
-*Defined in [pair/encode.ts:12](https://github.com/polkadot-js/common/blob/9eea21e0/packages/keyring/src/pair/encode.ts#L12)*
+*Defined in [pair/encode.ts:12](https://github.com/polkadot-js/common/blob/27c474bd/packages/keyring/src/pair/encode.ts#L12)*
 
 **Parameters:**
 

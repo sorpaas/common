@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["bn/max"](_bn_max_.md)
 
-# External module: "bn/max"
+# Module: "bn/max"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **max**(...`items`: BN[]): *BN*
 
-*Defined in [bn/max.ts:22](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/bn/max.ts#L22)*
+*Defined in [bn/max.ts:22](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/bn/max.ts#L22)*
 
 **`name`** max
 

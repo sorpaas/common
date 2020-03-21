@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["u8a/toHex"](_u8a_tohex_.md)
 
-# External module: "u8a/toHex"
+# Module: "u8a/toHex"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **u8aToHex**(`value?`: Uint8Array | null, `bitLength`: number, `isPrefixed`: boolean): *string*
 
-*Defined in [u8a/toHex.ts:21](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util/src/u8a/toHex.ts#L21)*
+*Defined in [u8a/toHex.ts:21](https://github.com/polkadot-js/common/blob/27c474bd/packages/util/src/u8a/toHex.ts#L21)*
 
 **`name`** u8aToHex
 

@@ -1,6 +1,6 @@
 [Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["blake2/asU8a"](_blake2_asu8a_.md)
 
-# External module: "blake2/asU8a"
+# Module: "blake2/asU8a"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **blake2AsU8a**(`data`: Uint8Array | string, `bitLength`: number, `key`: Uint8Array | null): *Uint8Array*
 
-*Defined in [blake2/asU8a.ts:23](https://github.com/polkadot-js/common/blob/9eea21e0/packages/util-crypto/src/blake2/asU8a.ts#L23)*
+*Defined in [blake2/asU8a.ts:23](https://github.com/polkadot-js/common/blob/27c474bd/packages/util-crypto/src/blake2/asU8a.ts#L23)*
 
 **`name`** blake2AsU8a
 
