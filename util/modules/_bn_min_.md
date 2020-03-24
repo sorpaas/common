@@ -14,9 +14,9 @@
 
 ▸ **min**(...`items`: BN[]): *BN*
 
-*Defined in [bn/min.ts:22](https://github.com/polkadot-js/common/blob/fe2f0543/packages/util/src/bn/min.ts#L22)*
+*Defined in [bn/min.ts:22](https://github.com/polkadot-js/common/blob/15c9904c/packages/util/src/bn/min.ts#L22)*
 
-**`name`** min
+**`name`** bnMin
 
 **`summary`** Finds and returns the smallest value in an array of BNs.
 
@@ -25,9 +25,9 @@
 
 ```javascript
 import BN from 'bn.js';
-import { min } from '@polkadot/util';
+import { bnMin } from '@polkadot/util';
 
-min([new BN(1), new BN(3), new BN(2)]).toString(); // => '1'
+bnMin([new BN(1), new BN(3), new BN(2)]).toString(); // => '1'
 ```
 
 **Parameters:**

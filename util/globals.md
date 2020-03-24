@@ -11,6 +11,7 @@
 * ["bn/fromHex"](modules/_bn_fromhex_.md)
 * ["bn/max"](modules/_bn_max_.md)
 * ["bn/min"](modules/_bn_min_.md)
+* ["bn/sqrt"](modules/_bn_sqrt_.md)
 * ["bn/toBn"](modules/_bn_tobn_.md)
 * ["bn/toHex"](modules/_bn_tohex_.md)
 * ["bn/toU8a"](modules/_bn_tou8a_.md)

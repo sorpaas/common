@@ -14,9 +14,9 @@
 
 ▸ **max**(...`items`: BN[]): *BN*
 
-*Defined in [bn/max.ts:22](https://github.com/polkadot-js/common/blob/fe2f0543/packages/util/src/bn/max.ts#L22)*
+*Defined in [bn/max.ts:22](https://github.com/polkadot-js/common/blob/15c9904c/packages/util/src/bn/max.ts#L22)*
 
-**`name`** max
+**`name`** bnMax
 
 **`summary`** Finds and returns the highest value in an array of BNs.
 
@@ -25,9 +25,9 @@
 
 ```javascript
 import BN from 'bn.js';
-import { max } from '@polkadot/util';
+import { bnMax } from '@polkadot/util';
 
-max([new BN(1), new BN(3), new BN(2)]).toString(); // => '3'
+bnMax([new BN(1), new BN(3), new BN(2)]).toString(); // => '3'
 ```
 
 **Parameters:**
