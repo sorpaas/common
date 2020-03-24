@@ -43,6 +43,7 @@
 * ["nacl/seal"](modules/_nacl_seal_.md)
 * ["nacl/sign"](modules/_nacl_sign_.md)
 * ["nacl/verify"](modules/_nacl_verify_.md)
+* ["noWasm"](modules/_nowasm_.md)
 * ["polyfill"](modules/_polyfill_.md)
 * ["random/asHex"](modules/_random_ashex_.md)
 * ["random/asNumber"](modules/_random_asnumber_.md)
