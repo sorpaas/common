@@ -19,26 +19,26 @@
 ### `Const` SI
 
 • **SI**: *[SiDef](../interfaces/_types_.sidef.md)[]* = [
-  { power: -24, value: 'y', text: 'yocto' },
-  { power: -21, value: 'z', text: 'zepto' },
-  { power: -18, value: 'a', text: 'atto' },
-  { power: -15, value: 'f', text: 'femto' },
-  { power: -12, value: 'p', text: 'pico' },
-  { power: -9, value: 'n', text: 'nano' },
-  { power: -6, value: 'µ', text: 'micro' },
-  { power: -3, value: 'm', text: 'milli' },
-  { power: 0, value: '-', text: 'Unit' }, // position 8
-  { power: 3, value: 'k', text: 'Kilo' },
-  { power: 6, value: 'M', text: 'Mega' },
-  { power: 9, value: 'G', text: 'Giga' },
-  { power: 12, value: 'T', text: 'Tera' },
-  { power: 15, value: 'P', text: 'Peta' },
-  { power: 18, value: 'E', text: 'Exa' },
-  { power: 21, value: 'Z', text: 'Zeta' },
-  { power: 24, value: 'Y', text: 'Yotta' }
+  { power: -24, text: 'yocto', value: 'y' },
+  { power: -21, text: 'zepto', value: 'z' },
+  { power: -18, text: 'atto', value: 'a' },
+  { power: -15, text: 'femto', value: 'f' },
+  { power: -12, text: 'pico', value: 'p' },
+  { power: -9, text: 'nano', value: 'n' },
+  { power: -6, text: 'micro', value: 'µ' },
+  { power: -3, text: 'milli', value: 'm' },
+  { power: 0, text: 'Unit', value: '-' }, // position 8
+  { power: 3, text: 'Kilo', value: 'k' },
+  { power: 6, text: 'Mega', value: 'M' },
+  { power: 9, text: 'Giga', value: 'G' },
+  { power: 12, text: 'Tera', value: 'T' },
+  { power: 15, text: 'Peta', value: 'P' },
+  { power: 18, text: 'Exa', value: 'E' },
+  { power: 21, text: 'Zeta', value: 'Z' },
+  { power: 24, text: 'Yotta', value: 'Y' }
 ]
 
-*Defined in [format/si.ts:9](https://github.com/polkadot-js/common/blob/c98e9947/packages/util/src/format/si.ts#L9)*
+*Defined in [format/si.ts:9](https://github.com/polkadot-js/common/blob/cbec4add/packages/util/src/format/si.ts#L9)*
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 • **SI_MID**: *8* = 8
 
-*Defined in [format/si.ts:7](https://github.com/polkadot-js/common/blob/c98e9947/packages/util/src/format/si.ts#L7)*
+*Defined in [format/si.ts:7](https://github.com/polkadot-js/common/blob/cbec4add/packages/util/src/format/si.ts#L7)*
 
 ## Functions
 
@@ -54,7 +54,7 @@ ___
 
 ▸ **calcSi**(`text`: string, `decimals`: number, `forceUnit?`: undefined | string): *[SiDef](../interfaces/_types_.sidef.md)*
 
-*Defined in [format/si.ts:41](https://github.com/polkadot-js/common/blob/c98e9947/packages/util/src/format/si.ts#L41)*
+*Defined in [format/si.ts:41](https://github.com/polkadot-js/common/blob/cbec4add/packages/util/src/format/si.ts#L41)*
 
 **Parameters:**
 
@@ -72,7 +72,7 @@ ___
 
 ▸ **findSi**(`type`: string): *[SiDef](../interfaces/_types_.sidef.md)*
 
-*Defined in [format/si.ts:30](https://github.com/polkadot-js/common/blob/c98e9947/packages/util/src/format/si.ts#L30)*
+*Defined in [format/si.ts:30](https://github.com/polkadot-js/common/blob/cbec4add/packages/util/src/format/si.ts#L30)*
 
 **Parameters:**
 

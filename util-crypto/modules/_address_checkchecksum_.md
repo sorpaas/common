@@ -14,7 +14,7 @@
 
 ▸ **checkChecksum**(`decoded`: Uint8Array): *[boolean, number]*
 
-*Defined in [address/checkChecksum.ts:7](https://github.com/polkadot-js/common/blob/c98e9947/packages/util-crypto/src/address/checkChecksum.ts#L7)*
+*Defined in [address/checkChecksum.ts:7](https://github.com/polkadot-js/common/blob/cbec4add/packages/util-crypto/src/address/checkChecksum.ts#L7)*
 
 **Parameters:**
 
