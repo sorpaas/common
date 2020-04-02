@@ -14,7 +14,7 @@
 
 ▸ **keccakAsU8a**(`value`: Buffer | Uint8Array | string): *Uint8Array*
 
-*Defined in [keccak/asU8a.ts:23](https://github.com/polkadot-js/common/blob/cbec4add/packages/util-crypto/src/keccak/asU8a.ts#L23)*
+*Defined in [keccak/asU8a.ts:23](https://github.com/polkadot-js/common/blob/adb1c1fe/packages/util-crypto/src/keccak/asU8a.ts#L23)*
 
 **`name`** keccakAsU8a
 
