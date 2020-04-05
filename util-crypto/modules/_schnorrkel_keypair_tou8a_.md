@@ -14,7 +14,7 @@
 
 ▸ **schnorrkelKeypairToU8a**(`__namedParameters`: object): *Uint8Array*
 
-*Defined in [schnorrkel/keypair/toU8a.ts:9](https://github.com/polkadot-js/common/blob/fe9c7a8a/packages/util-crypto/src/schnorrkel/keypair/toU8a.ts#L9)*
+*Defined in [schnorrkel/keypair/toU8a.ts:9](https://github.com/polkadot-js/common/blob/caa5a8b9/packages/util-crypto/src/schnorrkel/keypair/toU8a.ts#L9)*
 
 **Parameters:**
 

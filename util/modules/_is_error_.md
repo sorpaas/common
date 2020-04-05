@@ -14,7 +14,7 @@
 
 ▸ **isError**(`value`: any): *value is Error*
 
-*Defined in [is/error.ts:22](https://github.com/polkadot-js/common/blob/fe9c7a8a/packages/util/src/is/error.ts#L22)*
+*Defined in [is/error.ts:22](https://github.com/polkadot-js/common/blob/caa5a8b9/packages/util/src/is/error.ts#L22)*
 
 **`name`** isError
 
