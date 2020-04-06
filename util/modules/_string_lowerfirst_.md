@@ -14,7 +14,7 @@
 
 ▸ **stringLowerFirst**(`value?`: string | null): *string*
 
-*Defined in [string/lowerFirst.ts:19](https://github.com/polkadot-js/common/blob/caa5a8b9/packages/util/src/string/lowerFirst.ts#L19)*
+*Defined in [string/lowerFirst.ts:19](https://github.com/polkadot-js/common/blob/d3d8caa0/packages/util/src/string/lowerFirst.ts#L19)*
 
 **`name`** stringLowerFirst
 
