@@ -18,4 +18,4 @@
 
 • **withType**? : *undefined | false | true*
 
-*Defined in [types.ts:35](https://github.com/polkadot-js/common/blob/d40d6c65/packages/keyring/src/types.ts#L35)*
+*Defined in [types.ts:34](https://github.com/polkadot-js/common/blob/c4acca6c/packages/keyring/src/types.ts#L34)*

@@ -14,7 +14,7 @@
 
 ▸ **assert**(`condition`: boolean | object | string | number | undefined | null, `message`: string | MessageFn): *asserts condition*
 
-*Defined in [assert.ts:25](https://github.com/polkadot-js/common/blob/d40d6c65/packages/util/src/assert.ts#L25)*
+*Defined in [assert.ts:25](https://github.com/polkadot-js/common/blob/c4acca6c/packages/util/src/assert.ts#L25)*
 
 **`name`** assert
 
