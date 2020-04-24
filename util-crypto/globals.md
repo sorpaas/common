@@ -11,6 +11,8 @@
 * ["address/decode"](modules/_address_decode_.md)
 * ["address/defaults"](modules/_address_defaults_.md)
 * ["address/encode"](modules/_address_encode_.md)
+* ["address/keyMulti"](modules/_address_keymulti_.md)
+* ["address/keySub"](modules/_address_keysub_.md)
 * ["address/setSS58Format"](modules/_address_setss58format_.md)
 * ["address/ss58"](modules/_address_ss58_.md)
 * ["address/sshash"](modules/_address_sshash_.md)

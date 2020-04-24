@@ -14,7 +14,7 @@
 
 ▸ **isBoolean**(`value`: any): *value is boolean*
 
-*Defined in [is/boolean.ts:20](https://github.com/polkadot-js/common/blob/6b1caacf/packages/util/src/is/boolean.ts#L20)*
+*Defined in [is/boolean.ts:20](https://github.com/polkadot-js/common/blob/60a9866a/packages/util/src/is/boolean.ts#L20)*
 
 **`name`** isBoolean
 
