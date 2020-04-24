@@ -14,6 +14,7 @@
 * ["address/keyMulti"](modules/_address_keymulti_.md)
 * ["address/keySub"](modules/_address_keysub_.md)
 * ["address/setSS58Format"](modules/_address_setss58format_.md)
+* ["address/sort"](modules/_address_sort_.md)
 * ["address/ss58"](modules/_address_ss58_.md)
 * ["address/sshash"](modules/_address_sshash_.md)
 * ["address/types"](modules/_address_types_.md)

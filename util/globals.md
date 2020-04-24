@@ -76,6 +76,7 @@
 * ["types"](modules/_types_.md)
 * ["u8a/concat"](modules/_u8a_concat_.md)
 * ["u8a/fixLength"](modules/_u8a_fixlength_.md)
+* ["u8a/sorted"](modules/_u8a_sorted_.md)
 * ["u8a/toBn"](modules/_u8a_tobn_.md)
 * ["u8a/toBuffer"](modules/_u8a_tobuffer_.md)
 * ["u8a/toHex"](modules/_u8a_tohex_.md)

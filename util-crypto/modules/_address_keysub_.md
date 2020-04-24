@@ -14,7 +14,7 @@
 
 ▸ **createKeySub**(`who`: Uint8Array | string, `index`: BigInt | BN | number): *Uint8Array*
 
-*Defined in [address/keySub.ts:11](https://github.com/polkadot-js/common/blob/60a9866a/packages/util-crypto/src/address/keySub.ts#L11)*
+*Defined in [address/keySub.ts:11](https://github.com/polkadot-js/common/blob/62ebe257/packages/util-crypto/src/address/keySub.ts#L11)*
 
 **Parameters:**
 

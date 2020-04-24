@@ -14,7 +14,7 @@
 
 ▸ **bnToHex**(`value?`: BN | BigInt | number | null, `options`: number | Options): *string*
 
-*Defined in [bn/toHex.ts:33](https://github.com/polkadot-js/common/blob/60a9866a/packages/util/src/bn/toHex.ts#L33)*
+*Defined in [bn/toHex.ts:33](https://github.com/polkadot-js/common/blob/62ebe257/packages/util/src/bn/toHex.ts#L33)*
 
 **`name`** bnToHex
 

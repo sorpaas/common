@@ -14,7 +14,7 @@
 
 ▸ **isFunction**(`value`: any): *value is Function*
 
-*Defined in [is/function.ts:20](https://github.com/polkadot-js/common/blob/60a9866a/packages/util/src/is/function.ts#L20)*
+*Defined in [is/function.ts:20](https://github.com/polkadot-js/common/blob/62ebe257/packages/util/src/is/function.ts#L20)*
 
 **`name`** isFunction
 
