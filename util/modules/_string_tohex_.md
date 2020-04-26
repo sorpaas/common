@@ -14,7 +14,7 @@
 
 ▸ **stringToHex**(`value?`: undefined | string): *string*
 
-*Defined in [string/toHex.ts:22](https://github.com/polkadot-js/common/blob/5d0abef9/packages/util/src/string/toHex.ts#L22)*
+*Defined in [string/toHex.ts:22](https://github.com/polkadot-js/common/blob/733e9e27/packages/util/src/string/toHex.ts#L22)*
 
 **`name`** stringToHex
 

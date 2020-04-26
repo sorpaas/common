@@ -14,7 +14,7 @@
 
 ▸ **naclKeypairFromSecret**(`secret`: Uint8Array): *[Keypair](../interfaces/_types_.keypair.md)*
 
-*Defined in [nacl/keypair/fromSecret.ts:23](https://github.com/polkadot-js/common/blob/5d0abef9/packages/util-crypto/src/nacl/keypair/fromSecret.ts#L23)*
+*Defined in [nacl/keypair/fromSecret.ts:23](https://github.com/polkadot-js/common/blob/733e9e27/packages/util-crypto/src/nacl/keypair/fromSecret.ts#L23)*
 
 **`name`** naclKeypairFromSecret
 
