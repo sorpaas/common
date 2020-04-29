@@ -14,7 +14,7 @@
 
 ▸ **sqrt**(`value`: BN): *BN*
 
-*Defined in [bn/sqrt.ts:33](https://github.com/polkadot-js/common/blob/b00d4956/packages/util/src/bn/sqrt.ts#L33)*
+*Defined in [bn/sqrt.ts:33](https://github.com/polkadot-js/common/blob/ffc6b032/packages/util/src/bn/sqrt.ts#L33)*
 
 **`name`** bnSqrt
 
