@@ -10,16 +10,16 @@
 
 ### Properties
 
-* [address](_types_.keyringpair.md#address)
+* [address](_types_.keyringpair.md#readonly-address)
 * [decodePkcs8](_types_.keyringpair.md#decodepkcs8)
 * [derive](_types_.keyringpair.md#derive)
 * [encodePkcs8](_types_.keyringpair.md#encodepkcs8)
-* [isLocked](_types_.keyringpair.md#islocked)
+* [isLocked](_types_.keyringpair.md#readonly-islocked)
 * [lock](_types_.keyringpair.md#lock)
-* [meta](_types_.keyringpair.md#meta)
-* [publicKey](_types_.keyringpair.md#publickey)
+* [meta](_types_.keyringpair.md#readonly-meta)
+* [publicKey](_types_.keyringpair.md#readonly-publickey)
 * [setMeta](_types_.keyringpair.md#setmeta)
-* [type](_types_.keyringpair.md#type)
+* [type](_types_.keyringpair.md#readonly-type)
 
 ### Methods
 
@@ -29,11 +29,11 @@
 
 ## Properties
 
-###  address
+### `Readonly` address
 
 • **address**: *string*
 
-*Defined in [types.ts:38](https://github.com/polkadot-js/common/blob/f76a4a98/packages/keyring/src/types.ts#L38)*
+*Defined in [types.ts:38](https://github.com/polkadot-js/common/blob/0f45b7fb/packages/keyring/src/types.ts#L38)*
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 • **decodePkcs8**: *function*
 
-*Defined in [types.ts:44](https://github.com/polkadot-js/common/blob/f76a4a98/packages/keyring/src/types.ts#L44)*
+*Defined in [types.ts:44](https://github.com/polkadot-js/common/blob/0f45b7fb/packages/keyring/src/types.ts#L44)*
 
 #### Type declaration:
 
@@ -60,7 +60,7 @@ ___
 
 • **derive**: *function*
 
-*Defined in [types.ts:45](https://github.com/polkadot-js/common/blob/f76a4a98/packages/keyring/src/types.ts#L45)*
+*Defined in [types.ts:45](https://github.com/polkadot-js/common/blob/0f45b7fb/packages/keyring/src/types.ts#L45)*
 
 #### Type declaration:
 
@@ -79,7 +79,7 @@ ___
 
 • **encodePkcs8**: *function*
 
-*Defined in [types.ts:46](https://github.com/polkadot-js/common/blob/f76a4a98/packages/keyring/src/types.ts#L46)*
+*Defined in [types.ts:46](https://github.com/polkadot-js/common/blob/0f45b7fb/packages/keyring/src/types.ts#L46)*
 
 #### Type declaration:
 
@@ -93,11 +93,11 @@ Name | Type |
 
 ___
 
-###  isLocked
+### `Readonly` isLocked
 
 • **isLocked**: *boolean*
 
-*Defined in [types.ts:40](https://github.com/polkadot-js/common/blob/f76a4a98/packages/keyring/src/types.ts#L40)*
+*Defined in [types.ts:40](https://github.com/polkadot-js/common/blob/0f45b7fb/packages/keyring/src/types.ts#L40)*
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 • **lock**: *function*
 
-*Defined in [types.ts:47](https://github.com/polkadot-js/common/blob/f76a4a98/packages/keyring/src/types.ts#L47)*
+*Defined in [types.ts:47](https://github.com/polkadot-js/common/blob/0f45b7fb/packages/keyring/src/types.ts#L47)*
 
 #### Type declaration:
 
@@ -113,19 +113,19 @@ ___
 
 ___
 
-###  meta
+### `Readonly` meta
 
 • **meta**: *[KeyringPair$Meta](_types_.keyringpair_meta.md)*
 
-*Defined in [types.ts:39](https://github.com/polkadot-js/common/blob/f76a4a98/packages/keyring/src/types.ts#L39)*
+*Defined in [types.ts:39](https://github.com/polkadot-js/common/blob/0f45b7fb/packages/keyring/src/types.ts#L39)*
 
 ___
 
-###  publicKey
+### `Readonly` publicKey
 
 • **publicKey**: *Uint8Array*
 
-*Defined in [types.ts:41](https://github.com/polkadot-js/common/blob/f76a4a98/packages/keyring/src/types.ts#L41)*
+*Defined in [types.ts:41](https://github.com/polkadot-js/common/blob/0f45b7fb/packages/keyring/src/types.ts#L41)*
 
 ___
 
@@ -133,7 +133,7 @@ ___
 
 • **setMeta**: *function*
 
-*Defined in [types.ts:48](https://github.com/polkadot-js/common/blob/f76a4a98/packages/keyring/src/types.ts#L48)*
+*Defined in [types.ts:48](https://github.com/polkadot-js/common/blob/0f45b7fb/packages/keyring/src/types.ts#L48)*
 
 #### Type declaration:
 
@@ -147,11 +147,11 @@ Name | Type |
 
 ___
 
-###  type
+### `Readonly` type
 
 • **type**: *KeypairType*
 
-*Defined in [types.ts:42](https://github.com/polkadot-js/common/blob/f76a4a98/packages/keyring/src/types.ts#L42)*
+*Defined in [types.ts:42](https://github.com/polkadot-js/common/blob/0f45b7fb/packages/keyring/src/types.ts#L42)*
 
 ## Methods
 
@@ -159,7 +159,7 @@ ___
 
 ▸ **sign**(`message`: Uint8Array, `options?`: [SignOptions](_types_.signoptions.md)): *Uint8Array*
 
-*Defined in [types.ts:49](https://github.com/polkadot-js/common/blob/f76a4a98/packages/keyring/src/types.ts#L49)*
+*Defined in [types.ts:49](https://github.com/polkadot-js/common/blob/0f45b7fb/packages/keyring/src/types.ts#L49)*
 
 **Parameters:**
 
@@ -176,7 +176,7 @@ ___
 
 ▸ **toJson**(`passphrase?`: undefined | string): *[KeyringPair$Json](_types_.keyringpair_json.md)*
 
-*Defined in [types.ts:50](https://github.com/polkadot-js/common/blob/f76a4a98/packages/keyring/src/types.ts#L50)*
+*Defined in [types.ts:50](https://github.com/polkadot-js/common/blob/0f45b7fb/packages/keyring/src/types.ts#L50)*
 
 **Parameters:**
 
@@ -192,7 +192,7 @@ ___
 
 ▸ **verify**(`message`: Uint8Array, `signature`: Uint8Array): *boolean*
 
-*Defined in [types.ts:51](https://github.com/polkadot-js/common/blob/f76a4a98/packages/keyring/src/types.ts#L51)*
+*Defined in [types.ts:51](https://github.com/polkadot-js/common/blob/0f45b7fb/packages/keyring/src/types.ts#L51)*
 
 **Parameters:**
 
