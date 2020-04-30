@@ -14,7 +14,7 @@
 
 ▸ **secp256k1KeypairFromSeed**(`seed`: Uint8Array): *[Keypair](../interfaces/_types_.keypair.md)*
 
-*Defined in [secp256k1/keypair/fromSeed.ts:16](https://github.com/polkadot-js/common/blob/ffc6b032/packages/util-crypto/src/secp256k1/keypair/fromSeed.ts#L16)*
+*Defined in [secp256k1/keypair/fromSeed.ts:16](https://github.com/polkadot-js/common/blob/f76a4a98/packages/util-crypto/src/secp256k1/keypair/fromSeed.ts#L16)*
 
 **`name`** secp256k1KeypairFromSeed
 
